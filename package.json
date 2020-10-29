@@ -1,0 +1,26 @@
+{
+  "name": "random-task-picker",
+  "version": "1.0.0",
+  "description": "This app will randomly pick a task for you to do from your Trello board",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "prod": "node index.js"
+  },
+  "author": "Hassan Kanj",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "chalk": "^4.1.0",
+    "configstore": "^5.0.1",
+    "dotenv": "^8.2.0",
+    "figlet": "^1.5.0",
+    "inquirer": "^7.3.3",
+    "json-query": "^2.2.2",
+    "wrap-text": "^1.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
