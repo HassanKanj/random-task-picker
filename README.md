@@ -56,9 +56,11 @@ A task will be picked randomly from the 'tasks' list, and once marked as done it
 
 3- **Mark the last picked task as done:** After you finish the last picked task, select this option to mark it as done, which will move the task to the 'done' list that you specified earlier.
 
-4- **Show current configs:** This will print the current configs (default Trello board, tasks list name, done list name, etc..)
+4- **Show current configs:** This will print the current configs (default Trello board, tasks list name, done list name, etc..).
 
-5- **Update current configs:**: This will update your configs (default Trello board, tasks list name, done list name, etc..)
+5- **Update current configs:**: This will update your configs (default Trello board, tasks list name, done list name, etc..).
+
+6- **Exit:**: Exit the app.
 
 
 
