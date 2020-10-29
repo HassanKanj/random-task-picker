@@ -35,7 +35,7 @@ function showMain() {
     new inquirer.Separator(),
     "Show current configs",
     "Update current configs",
-    new inquirer.Separator(),
+    "Exit",
   ];
   inquirer
     .prompt([
@@ -65,6 +65,8 @@ function showMain() {
           break;
         case "Mark the last picked task as done":
           markPickedTaskAsDone();
+        case "Exit":
+          process.exit();
       }
     });
 }
