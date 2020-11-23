@@ -65,6 +65,7 @@ function showMain() {
           break;
         case "Mark the last picked task as done":
           markPickedTaskAsDone();
+          break;
         case "Exit":
           process.exit();
       }
