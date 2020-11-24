@@ -1,6 +1,6 @@
 {
   "name": "random-task-picker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This app will randomly pick a task for you to do from your Trello board",
   "main": "index.js",
   "scripts": {
