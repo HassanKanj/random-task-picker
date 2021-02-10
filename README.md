@@ -1,4 +1,5 @@
 # Random Task Picker (for Trello)
+[![An open source project from Lebanon](https://github.com/HassanKanj/random-task-picker/blob/main/badge-400px.png)](https://github.com/HassanKanj/opensource-project-from-lebanon/)
 
 ![image](https://github.com/HassanKanj/random-task-picker/blob/main/documentation/images/pick-random-task.jpg)
 
